@@ -65,8 +65,8 @@
     
 }
 .content h1{
-    font-size: 70px;
-    margin-top: -300px;
+    font-size: 30px;
+    margin-top: -50px;
     
 
 }
@@ -74,7 +74,7 @@
     margin: 20px auto;
     font-weight: 100;
     line-height: 25px;
-    font-size: 40px;
+    font-size: 20px;
 }
 button{
     width: 200px;
